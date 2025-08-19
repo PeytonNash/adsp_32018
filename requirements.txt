@@ -1,0 +1,15 @@
+jupyter
+ipynotebook
+pandas
+numpy
+transformers
+sentence_transformers
+dotenv
+langdetect
+nltk
+pandarallel
+scikit-learn
+torch
+accelerate
+pyarrow
+matplotlib
